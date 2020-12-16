@@ -2,22 +2,22 @@
 class Constants(object):
     """Constants holder class that stores the bulk of the fixed strings used in the library."""
 
-    IG_SIG_KEY = '19ce5f445dbfd9d29c59dc2a78c616a7fc090a8e018b9267bc4240a30244c53b'
-    IG_CAPABILITIES = '3brTvw=='
+    IG_SIG_KEY = '8e496c87a09d5e922f6e33df3f399ce298ddbd6f7d6d038417047cc6474a3542'
+    IG_CAPABILITIES = '3brTvwM='
     SIG_KEY_VERSION = '4'
-    APP_VERSION = '76.0.0.15.395'
+    APP_VERSION = '126.0.0.25.121'
     APPLICATION_ID = '567067343352427'
     FB_HTTP_ENGINE = 'Liger'
 
     ANDROID_VERSION = 24
     ANDROID_RELEASE = '7.0'
     PHONE_MANUFACTURER = 'samsung'
-    PHONE_DEVICE = 'SM-G930F'
-    PHONE_MODEL = 'herolte'
+    PHONE_DEVICE = 'SM-G935F'
+    PHONE_MODEL = 'hero2lte'
     PHONE_DPI = '640dpi'
     PHONE_RESOLUTION = '1440x2560'
     PHONE_CHIPSET = 'samsungexynos8890'
-    VERSION_CODE = '138226743'
+    VERSION_CODE = '195435560'
 
     USER_AGENT_FORMAT = \
         'Instagram {app_version} Android ({android_version:d}/{android_release}; ' \
